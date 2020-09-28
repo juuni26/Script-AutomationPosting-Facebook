@@ -1,12 +1,12 @@
 # Script-AutomationPosting-Facebook
-Fun Script for Automation Posting Facebook 
+**Fun Script for Automation Posting Facebook** 
 
-Basic Requirement
+**Basic Requirement**
 
 - NodeJs | or Download [Here](https://nodejs.org/en/download/)
 - Puppeteer 
 
-Installation / How to start / Cara Mulai
+**Installation / How to start / Cara Mulai**
 
 - Git clone this [repo](https://github.com/juuni26/Script-AutomationPosting-Facebook) | or Download Zip then extact
 - Open Folder, then open terminal/bash, then run npm install.
@@ -16,7 +16,7 @@ Installation / How to start / Cara Mulai
 
 This repository is fun project, feel free to contribute :D
 
-Preview :
+**Preview :**
 
 1. Start the script ...
 ![Start the Script](./Preview/fb.png)
