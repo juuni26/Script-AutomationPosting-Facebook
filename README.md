@@ -19,11 +19,11 @@ This repository is fun project, feel free to contribute :D
 **Preview :**
 
 1. Start the script ...
-![Start the Script](./Preview/fb.png)
+![Start the Script](https://github.com/juuni26/Script-AutomationPosting-Facebook/blob/master/Preview/fb.PNG?raw=true)
 
 2. Posting some thing and successfuly post it.
-![Start the Script](./Preview/fb2.png)
+![Start the Script](https://github.com/juuni26/Script-AutomationPosting-Facebook/blob/master/Preview/fb2.PNG?raw=true)
 
 3. Check the post on Facebook
-![Start the Script](./Preview/fb3.png)
+![Start the Script](https://github.com/juuni26/Script-AutomationPosting-Facebook/blob/master/Preview/fb3.PNG?raw=true)
 
