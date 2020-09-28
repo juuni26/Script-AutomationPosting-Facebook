@@ -1,0 +1,28 @@
+{
+  "name": "automation_posting",
+  "version": "1.0.0",
+  "description": "Script for automation posting for facebook",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js",
+    "start" : "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juuni26/Script-AutomationPosting-Facebook.git"
+  },
+  "keywords": [
+    "Script",
+    "Automation",
+    "NodeJS"
+  ],
+  "author": "Juuni26",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/juuni26/Script-AutomationPosting-Facebook/issues"
+  },
+  "homepage": "https://github.com/juuni26/Script-AutomationPosting-Facebook#readme",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
