@@ -16,7 +16,7 @@ const rl = readline.createInterface({
 // jalanin fungsi asynchronous langsung
 (async () => {
 // headless : false, kalau mau liat cara jalannya
-
+try {
   const browser = await puppeteer.launch({ headless: true });  
   const context = browser.defaultBrowserContext();
   context.overridePermissions("https://www.facebook.com", []);
@@ -66,5 +66,10 @@ const rl = readline.createInterface({
   rl.close();
   browser.close();
     });
-    
+    }
+    catch (err){
+      console.log("there are some error");
+      console.log(err);
+      process.exit(1);
+    }
 })();
