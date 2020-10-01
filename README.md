@@ -4,7 +4,7 @@
 **Basic Requirement**
 
 - NodeJs | or Download [Here](https://nodejs.org/en/download/)
-- Puppeteer 
+- Puppeteer (You can download from the step below)
 
 **Installation / How to start / Cara Mulai**
 
